@@ -1,0 +1,10 @@
+#ifndef COMMAND_PARSER_MEMMAP_H
+#define COMMAND_PARSER_MEMMAP_H
+
+#define COMMAND_PARSER_START_SEC_CODE
+#include "MemMap.h"
+
+#define COMMAND_PARSER_STOP_SEC_CODE
+#include "MemMap.h"
+
+#endif /* COMMAND_PARSER_MEMMAP_H */
